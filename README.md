@@ -10,7 +10,7 @@ Durante lo stage in Franzini Annibale S.p.A. ho sviluppato e portato in produzio
 |---|---|---|
 | [**Osservatorio del Mercato del Lavoro Italiano**](https://github.com/MBertold/osservatorio-mercato-lavoro-italiano) | Pipeline ETL su indicatori Eurostat, modello dimensionale, dashboard di confronto tra regioni, forecasting e clustering | Airflow · PostgreSQL · Streamlit · Docker |
 | [**DatIstat**](https://github.com/MBertold/DatIstat) | Analisi dell'inflazione italiana con architettura Bronze/Silver/Gold, schema a stella, controlli di qualità e forecasting | Airflow · DuckDB · Pandas · Streamlit |
-| **Gap Economico Generazionale** | Dashboard sulle disparità economiche tra giovani e popolazione generale in Europa | PostgreSQL · Streamlit · Plotly |
+| [**Gap Economico Generazionale**](https://github.com/MBertold/Project-work) | Pipeline ETL da Eurostat e dashboard sulle disparità economiche tra giovani e popolazione generale in Europa | Python · PostgreSQL · Streamlit |
 
 ### 🛠️ Stack
 
